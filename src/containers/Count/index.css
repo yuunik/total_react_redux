@@ -1,0 +1,17 @@
+/* Count 样式 */
+.count {
+    width: 50%;
+    height: 50%;
+    border: 1px inset black;
+    border-radius: 10px;
+    background-color: #ade;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-evenly;
+    align-items: center;
+    margin: 20px;
+}
+
+button {
+    margin: 5px;
+}
